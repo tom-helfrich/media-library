@@ -1,8 +1,8 @@
 module.exports = {
-  HOST: 'rds-mysql-sandbox.cqhi1sh5eo8o.us-east-2.rds.amazonaws.com',
-  USER: 'admin',
-  PASSWORD: 'Kobefan1984!',
-  DB: 'media_library',
+  HOST: '',
+  USER: '',
+  PASSWORD: '',
+  DB: '',
   dialect: 'mysql',
   pool: {
     max: 5,
