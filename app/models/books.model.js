@@ -1,7 +1,6 @@
 const { Sequelize } = require('sequelize');
-const { Sequelize } = require('sequelize');
 
-moddule.exports = (sequelize) => {
+module.exports = (sequelize) => {
   const options = {
     timestamps: true,
     createdAt: 'created_date',
